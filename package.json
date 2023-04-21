@@ -1,0 +1,17 @@
+{
+  "name": "netbase-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "shiftBy": "node shiftBy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "zod": "^3.21.4"
+  }
+}
