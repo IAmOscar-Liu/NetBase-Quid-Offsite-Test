@@ -1,5 +1,5 @@
 function shiftBy(arr, shift) {
-  if (arr.length <= 1) return arr;
+  if (shift === 0 || arr.length <= 1 || arr.length === shift) return arr;
 
   shift = shift % arr.length;
   let i = 0;
