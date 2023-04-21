@@ -18,4 +18,4 @@ You can make both `POST` and `Get` request to [http://localhost:5000](http://loc
 ### `npm run shiftBy.js` or `node shiftBy.js`
 
 For `Part 1` and `Part 3` of the test, I put my solution in `shiftBy.js` file.\
-You can use this command to run the test cases I provide or create your test cases by adding ` console.log(array, n))` to the file.
+You can use this command to run the test cases I provide or create your test cases by adding `console.log(shiftBy(array, n))` to the file.
